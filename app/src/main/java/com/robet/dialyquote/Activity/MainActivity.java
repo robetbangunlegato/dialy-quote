@@ -1,8 +1,10 @@
-package com.robet.dialyquote;
+package com.robet.dialyquote.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.robet.dialyquote.R;
 
 public class MainActivity extends AppCompatActivity {
 
