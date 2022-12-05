@@ -4,6 +4,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetroServer {
+//    dibuat untuk menuju ke alamat API berada
     private static final String baseURL = "https://type.fit/api/";
     private static Retrofit retro;
 
